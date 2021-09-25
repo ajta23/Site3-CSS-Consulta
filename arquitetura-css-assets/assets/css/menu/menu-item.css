@@ -1,0 +1,11 @@
+.menu__item {
+    list-style: none;
+}
+
+.menu__item:first-child {
+    font-weight: bold;
+}
+
+.menu__item:hover {
+    text-decoration: underline;
+}
